@@ -6,3 +6,6 @@
 
 3.  image_encode_decode.py
 图片转字节，字节转图片
+
+4. data_aug_paste.py
+在背景图上贴检测目标
