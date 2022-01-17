@@ -9,3 +9,6 @@
 
 4. data_aug_paste.py
 在背景图上贴检测目标
+
+5. mpii_mat2json.py  mpii_json_demo.py
+处理mpii数据集
